@@ -1,5 +1,3 @@
-Your README.md context is ready! Here's a concise overview for your project:
-
 ---
 
 # **Pre-Training Transformers Models in PyTorch with Hugging Face Transformers**
